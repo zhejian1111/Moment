@@ -1,0 +1,13 @@
+baseURL = "https://farseash.github.io/demo-hugo-theme-moments/"
+languageCode = "zh-Hans"
+theme = "moments"
+paginate = 10
+paginatePath = '.'
+
+[params]
+    title = "MOMENTS"
+    signature = "Think Deep, Squat Deeper. "
+    cover = "https://firepeach.oss-cn-hangzhou.aliyuncs.com/picture/preview.jpg"
+
+    name = "Default User"
+    avatar = "https://firepeach.oss-cn-hangzhou.aliyuncs.com/picture/20230628221158.png"

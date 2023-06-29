@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>&#39;moment.yzz.bio/&#39;/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Thu, 29 Jun 2023 00:03:27 +0800</lastBuildDate><atom:link href="'moment.yzz.bio/'/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>&#39;moment.yzz.bio/&#39;/moments/moments4/</link>
+      <pubDate>Thu, 29 Jun 2023 00:03:27 +0800</pubDate>
+      
+      <guid>&#39;moment.yzz.bio/&#39;/moments/moments4/</guid>
+      <description>播个视频看看</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>&#39;moment.yzz.bio/&#39;/moments/moments5/</link>
+      <pubDate>Thu, 29 Jun 2023 00:03:27 +0800</pubDate>
+      
+      <guid>&#39;moment.yzz.bio/&#39;/moments/moments5/</guid>
+      <description>播个音乐听听</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>&#39;moment.yzz.bio/&#39;/moments/firstpost2/</link>
+      <pubDate>Wed, 28 Jun 2023 11:57:49 +0800</pubDate>
+      
+      <guid>&#39;moment.yzz.bio/&#39;/moments/firstpost2/</guid>
+      <description>Wallpaper</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>&#39;moment.yzz.bio/&#39;/moments/firstpost/</link>
+      <pubDate>Wed, 28 Jun 2023 11:57:40 +0800</pubDate>
+      
+      <guid>&#39;moment.yzz.bio/&#39;/moments/firstpost/</guid>
+      <description>这是第一条moment</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>&#39;moment.yzz.bio/&#39;/moments/firstpost3/</link>
+      <pubDate>Wed, 04 Aug 2021 11:57:49 +0800</pubDate>
+      
+      <guid>&#39;moment.yzz.bio/&#39;/moments/firstpost3/</guid>
+      <description>Fire Peach</description>
+    </item>
+    
+  </channel>
+</rss>
