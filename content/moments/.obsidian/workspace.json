@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "e63f050d64ca1a6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b652e822448507b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cdb76e0f73998d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "moments4.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2270edf48384c737",
+    "type": "split",
+    "children": [
+      {
+        "id": "01e8c3f791c6459f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3096dfa1b00a518",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68ab371c41e66301",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "019d1a70b41b4bdf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7931e1ad49ecc40c",
+    "type": "split",
+    "children": [
+      {
+        "id": "77c2d359983cd8f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eebe61b63733d39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "moments4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac177aadf6c565b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "moments4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f76849a57e146283",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7c0016b11fa5798",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "moments4.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "9cdb76e0f73998d2",
+  "lastOpenFiles": [
+    "firstpost3.md",
+    "firstpost2.md",
+    "firstpost.md",
+    "moments4.md",
+    "moments5.md"
+  ]
+}
