@@ -6,7 +6,7 @@ name: 火蜜桃
 avatar: https://firepeach.oss-cn-hangzhou.aliyuncs.com/picture/20230628221158.png
 
 # 发布时间
-date: 2023-06-29T00:03:27+08:00
+date: 2023-08-05T00:14:27+08:00
 
 # 给Moment添加标签
 tags:
@@ -22,7 +22,7 @@ pictures:
 # link：必填，网页链接；
 # link_text：必填，链接显示的文字；
 # link_logo：选填，网页logo，现在支持部分网站自动找到对应图标，无需自己添加图标
-link: //player.bilibili.com/player.html?aid=786271071&bvid=BV1K14y1X7wY&cid=1208063087&page=1
+link: //player.bilibili.com/player.html?aid=356667804&bvid=BV1UX4y1h7WR&cid=1147459989&page=1
 link_text: 
 link_logo: 
 
@@ -30,5 +30,5 @@ link_logo:
 note:
 ---
 
- nas
+
 
